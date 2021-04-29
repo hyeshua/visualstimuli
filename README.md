@@ -1,1 +1,1 @@
-# visualstimuli
+# Visual Materials for semantic fieldwork
